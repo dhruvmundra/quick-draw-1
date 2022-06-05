@@ -1,0 +1,28 @@
+p,span{
+padding-top: 10px;
+font-family: cursive;
+font-size: 25px;
+}
+#score{
+    font-size: 35px;
+    margin-left: 20px; 
+}
+#timer{
+    font-size: 35px;
+    float: right;
+    margin-right:20px;
+}
+body{
+    background-color: rgb(83, 129, 141);
+
+}
+canvas{
+    border:5px solid rgb(193, 114, 114);
+    border-radius:20px;
+    margin-top: 150px;
+    box-shadow: 5px 5px 5px rgb(86, 121, 124);
+    box-shadow: 1px 1px 38px grey;
+    animation-name:example ;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
